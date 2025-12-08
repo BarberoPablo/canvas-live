@@ -1,9 +1,9 @@
-import Editor from "../components/tldraw/Editor";
+import CanvasEditor from "../components/tldraw/CanvasEditor";
 
 export default function CanvasPage() {
   return (
     <div className="">
-      <Editor />
+      <CanvasEditor />
     </div>
   );
 }
